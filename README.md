@@ -1,4 +1,5 @@
-Checkbox QA Deps
-================
+About
+=====
 
-Stuff that is useful or needed to test checkbox, that needs to be pulled from across the Internet, but cannot, due to firewall restrictions in the test lab
+Set of external tarballs that we previously had to pull from pypi, for greater control
+and reliablity those are now moved to this repositiory.
